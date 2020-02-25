@@ -14,9 +14,14 @@ public class Pruebas {
     /**
      * @param args the command line arguments
      */
+    
     public static void main(String[] args) {
+        //hola mundo
         // TODO code application logic here
-        for(int i=0;i<10;i++){
+        
+         
+       for(int i=0;i<10;i++){
+            
         System.out.println("hello world");
         }
         
